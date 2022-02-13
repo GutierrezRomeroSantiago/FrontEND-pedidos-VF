@@ -1,27 +1,36 @@
-# ProyectoFinal
+# PROYECTO FINAL 2º EVALUACIÓN
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Este proyecto ha sido realizado por **Santiago Gutiérrez Romero**, alumno del **I.E.S Punta del Verde** en el modulo de **SGBD**.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Objetivo
 
-## Code scaffolding
+**El objetivo de este proyecto** es demostrar diferentes habilidades y puesta en escena de conceptos aprendidos durante la 2º evaluación del curso 2021/22, como conductor hemos usado el lenguaje de programación **typeScript**, el entorno **NODE.js**, **HTML y CSS** y el framework de **ANGULAR**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Competencias
+ - [ ] **ENCAPSULACIÓN**
+ - [ ] **HERENCIA**
+ - [ ] **SOBREESCRITURA**
+ - [ ] **SUPER CLASES Y SUBCLASES**
+ - [ ] **POLIMORFISMO**
+ - [ ] **MONGOOSE**
+ - [ ] **TypeScript**
+ - [ ] **MONGO DB**
+ - [ ] **MONGO ATLAS**
+ - [ ] **NODE.JS**
+ - [ ] **ANGULAR**
+ - [ ] **REST API**
+ - [ ] **HTML Y CSS**
+ - [ ] **BOOTSTRAP**
+ - [ ] **ANGULAR MATERIAL**
 
-## Build
+# Documentación
+En la documentación podemos encontrar información sobre este proyecto en cuanto a la estructura de datos, uso de la apllicación, rutas de rest api...
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Organización del repositorio
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ - [ ] ***DOC***
+ -  Contiene la documentación sobre la realización del proyecto.
+ 
+ - [ ] ***SRC***
+ - En este encontramos los diferentes componentes, servicios y demás dependencias que utiliza la aplicación.
