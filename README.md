@@ -1,4 +1,4 @@
-# PROYECTO FINAL 2º EVALUACIÓN
+# PROYECTO FINAL
 
 Este proyecto ha sido realizado por **Santiago Gutiérrez Romero**, alumno del **I.E.S Punta del Verde** en el modulo de **SGBD**.
 
